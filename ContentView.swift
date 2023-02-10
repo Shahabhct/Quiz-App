@@ -15,9 +15,9 @@ struct ContentView: View {
   
     //var score = score1
     let QuizQuestions = [
-        Question(stem: "2 + 2 = ?",
+        Question(stem: "2 + 8 = ?",
                  distractor1: "3",
-                 distractor2: "4",
+                 distractor2: "10",
                  distractor3:"5",
                  distractor4:"6"),
         Question(stem: "2 + 3 = ?",
